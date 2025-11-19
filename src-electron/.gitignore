@@ -1,0 +1,25 @@
+# Compiled output
+/dist
+/release
+
+# Dependencies
+node_modules
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment
+.env
+.env.local
+
+# Build artifacts
+*.tsbuildinfo
